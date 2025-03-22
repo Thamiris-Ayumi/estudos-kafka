@@ -20,6 +20,9 @@ Essa arquitetura facilita a integração entre sistemas, permitindo que cada com
 
 Esse conjunto de componentes torna o Kafka uma solução robusta para cenários que exigem alta performance na transmissão e processamento de dados.
 
+<p align="center">
+  <img src="apache-kafka-architecture.png" alt="Arquitetura do Projeto" width="500">
+</p>
 
 Link: https://www.youtube.com/watch?v=N2D7hsXHVGk
 
